@@ -1,5 +1,5 @@
+## Thinking
 Collect items
-Train
 Store items
 Develop software 
 Explore a new world
@@ -12,12 +12,17 @@ Organise documents
 Earn
 Produce
 Format documents
-Support juniors
 Live in harmony with nature
 Capture moments
 Draw on blank
-Chat with known
 Solve puzzle
 Pioneer
 Dress with sleekness
 Drop in
+
+## Communication
+Chat with known
+
+## Leadership
+Train
+Support juniors
